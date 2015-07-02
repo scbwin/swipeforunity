@@ -1,0 +1,1 @@
+This piece of code is part of an article written in catsoft-studios (www.catsoft-studios.com) where it is explained how to create a simple mobile device gesture system.
